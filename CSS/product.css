@@ -60,6 +60,10 @@ h2{
     margin: 0 auto;
     background-color: #e5eaf5;
 }
+.c-header
+{
+    margin-left: 15px;
+}
 .menu ul
 {
     
